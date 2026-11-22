@@ -1,8 +1,6 @@
-## 🎓 Education
+## 🎓 教育经历
 
-| <img src="./logos/profile-edu.png" width="110"/> | |
+| | |
 |---|---|
-| | **High School**<br>沅江市第一中学 |
-| | **Bachelor**<br>中南大学地球科学与信息物理学院 |
-| | **Master**<br>武汉大学导航中心 |
+| <img src="./logos/school-badge.png" width="120" alt="校徽"/> | **🏫 高中**<br>沅江市第一中学<br><br>**📗 本科**<br>中南大学地球科学与信息物理学院<br><br>**📘 硕士**<br>武汉大学导航中心 |
 
