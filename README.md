@@ -8,6 +8,6 @@
 - 📗 **Central South University** | Bachelor of Engineering
   - Major: Surveying and Remote Sensing
 - 📘 **Wuhan University** | Postgraduate
-  - Research Group: Navigation Center, Prof. Jiang Weiping
+  - Research Group: GNSS Center
   - Research Direction: GNSS precise positioning
 
